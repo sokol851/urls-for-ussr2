@@ -1,6 +1,6 @@
 {
     "APP_NAME":"USSR2 Launcher.exe",
-    "DB_URL":"http://26.52.19.229:5000/",
+    "DB_URL":"http://26.175.79.74:5000/",
     "CLIENT_URL":"https://storage.yandexcloud.net/ussr2/client_ussr2/",
     "SERVICE_URL":"https://storage.yandexcloud.net",
     "CDN_SERVER_IP":"26.175.79.74",
