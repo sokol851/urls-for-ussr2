@@ -4,9 +4,9 @@
     "DB_URL":"http://194.87.238.74:8000/",
     "CLIENT_URL":"https://storage.yandexcloud.net/ussr2/client_ussr2/",
     "SERVICE_URL":"https://storage.yandexcloud.net",
-    "CDN_SERVER_IP":"194.87.238.74",
+    "CDN_SERVER_IP":"26.175.79.74",
     "CDN_SERVER_PORT":11005,
-    "CHANNEL_SERVER_IP":"194.87.238.74",
+    "CHANNEL_SERVER_IP":"26.175.79.74",
     "CHANNEL_SERVER_PORT":11004,
     "NATION":2
 }
