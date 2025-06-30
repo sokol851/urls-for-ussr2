@@ -1,12 +1,12 @@
 {
     "APP_NAME":"USSR2 Launcher.exe",
     "CONFIG":"R2.cfg",
-    "DB_URL":"http://26.52.19.229:8000/",
+    "DB_URL":"http://92.101.121.5:8000/",
     "CLIENT_URL":"https://storage.yandexcloud.net/ussr2/client_ussr2/",
     "SERVICE_URL":"https://storage.yandexcloud.net",
-    "CDN_SERVER_IP":"26.52.19.229",
+    "CDN_SERVER_IP":"92.101.121.5",
     "CDN_SERVER_PORT":11005,
-    "CHANNEL_SERVER_IP":"26.52.19.229",
+    "CHANNEL_SERVER_IP":"92.101.121.5",
     "CHANNEL_SERVER_PORT":11004,
     "NATION":2
 }
